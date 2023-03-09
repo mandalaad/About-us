@@ -1,0 +1,30 @@
+* {
+  outline: 1px red solid;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.nav2 img {
+  width: 150px;
+}
+
+.wave {
+  background-image: url(Vector.png);
+}
+
+.footer {
+  background-color: #0D1C37;
+  padding: 40px;
+  color: white;
+}
+
+.footer-core {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}/*# sourceMappingURL=about.css.map */
